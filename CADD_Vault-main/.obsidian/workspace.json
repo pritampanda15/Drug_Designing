@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "3bad84a6f1a01971",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d1faa4c9658e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57eaa011136df53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5143ccc822e96af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b79516b60c16f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092d767989ea57d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdd94fc631f47ef1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b19f0fd3d8e99f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "c3d581d8691bfaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "693bbf71f5c6ebaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e962ff4094d329",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4ca0e4073d366c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1cf196181c11bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd82deb83ca209f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f57eaa011136df53",
+  "lastOpenFiles": [
+    "docs/SBVS/Scoring Functions.md",
+    "README copy.md",
+    "mkdocs copy.yml",
+    "LICENSE copy",
+    "site copy/sitemap.xml.gz",
+    "site copy/sitemap.xml",
+    "site copy/search.html",
+    "site copy/search/worker.js",
+    "site copy/search/search_index.json",
+    "site copy/search/main.js",
+    "site copy/search/lunr.js",
+    "site copy/search",
+    "site copy/css/fonts/fontawesome-webfont.svg",
+    "docs copy/index.md",
+    "docs copy/images/LogoV1.png",
+    "docs copy/Visualisation Tools/Visualisation Tools.md",
+    "docs copy/VS Workflows/VS Workflows.md",
+    "docs copy/Target Identification/Target identification.md",
+    "docs copy/SBVS/Scoring Functions.md",
+    "docs copy/SBVS/Performance Determination.md",
+    "docs copy/SBVS/Docking.md",
+    "docs copy/SBVS/Docking Score Prediction.md",
+    "docs copy/SBVS/Docking Pose Processing.md",
+    "docs copy/Retrosynthesis Prediction/Retrosynthesis Prediction.md",
+    "docs copy/Resources/Resources.md",
+    "docs copy/Proteins/Water Prediction.md",
+    "docs copy/Proteins/Structure Refinement.md",
+    "docs copy/Proteins/Structure Quality Assessment.md",
+    "docs copy/Proteins/Structure Manipulation Librairies.md",
+    "docs copy/Proteins/Sequence Alignment.md",
+    "docs copy/Proteins/Protonation.md",
+    "docs copy/Proteins/Protein-Protein Docking.md",
+    "docs copy/Proteins/Other.md",
+    "docs copy/Proteins/ML Structure Prediction.md",
+    "docs copy/Proteins/Loop Modelling.md",
+    "docs copy/Proteins/Homology Modelling.md",
+    "docs copy/Proteins/Databases.md",
+    "docs copy/Proteins/Conformational Ensemble Generation.md",
+    "docs/images/LogoV1.png",
+    "images/LogoV1.png",
+    "site/css/fonts/fontawesome-webfont.svg",
+    "images/Logo V1.png",
+    "_public/apple-touch-icon-precomposed.png",
+    "public/apple-touch-icon-precomposed.png",
+    "lanyon-master/public/apple-touch-icon-precomposed.png",
+    "Untitled.canvas"
+  ]
+}

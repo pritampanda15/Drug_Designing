@@ -1,0 +1,11 @@
+pandas
+requests
+PyGithub
+habanero
+mkdocs
+mkdocs-material
+openpyxl
+python-doi
+arxiv
+python-dotenv
+backoff

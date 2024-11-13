@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.vscode/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode files
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+pyvenv.cfg
+
+#folder
+vina/
+vina/bin/
+vina/lib/
+vina/include/
